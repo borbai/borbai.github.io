@@ -76893,7 +76893,7 @@ q=A.yH(A.a([A.asi(r,q,1,p),B.N5],o),B.b3,B.aC,B.b7)
 r=m.f
 r=A.ne(A.a([q,A.yH(A.a([A.asi(r,m.r?n:new A.a3u(m),2,p),B.Nf],o),B.b3,B.aC,B.b7)],o),B.b3,B.aC,B.b7)
 m=A.Hk(A.ne(A.a([new A.bD(new A.aE(16,16,16,16),s,n),B.Ha,new A.bD(B.bs,r,n),new A.bD(B.bs,A.amV(B.Nb,m.r?n:new A.a3v(m,a)),n),B.nt],o),B.ek,B.aC,B.b7),m.d)}else m=new A.bD(B.bs,A.Hk(A.i6("Vota\xe7\xe3o iniciada, fazer o Registro ou Reenvie o Link de vota\xe7\xe3o acima",n,n,n,A.en(n,n,n,n,n,n,n,n,n,n,n,40,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),n),n)
-return m}else return new A.bD(B.bs,A.Hk(A.i6("A vota\xe7\xe3o vai iniciar \xe0s 17hs do dia 23/03 e se encerra \xe0s 19hs do mesmo dia!",n,n,n,A.en(n,n,n,n,n,n,n,n,n,n,n,40,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),n),n)
+return m}else return new A.bD(B.bs,A.Hk(A.i6("A vota\xe7\xe3o foi encerrada! Obrigado pela participa\xe7\xe3o! O resultado ser\xe1 divulgado no site",n,n,n,A.en(n,n,n,n,n,n,n,n,n,n,n,40,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),n),n)
 else return new A.vk(n,n,n,n,n,n,n)},
 $S:439}
 A.a3t.prototype={
