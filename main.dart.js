@@ -76169,7 +76169,7 @@ return A.V(null,r)}})
 return A.W($async$$0,r)},
 $S:17}
 A.zQ.prototype={
-ag(){var s,r,q,p=A.ana(2023,5,13,20,20,0,0,!0)
+ag(){var s,r,q,p=A.ana(2023,5,15,20,20,0,0,!0)
 if(!A.fM(p))A.C(A.jC(p))
 s=A.ana(2023,5,17,22,0,0,0,!0)
 if(!A.fM(s))A.C(A.jC(s))
@@ -76320,7 +76320,7 @@ s=s.z
 s===$&&A.b()
 s=s.c
 r=p.r
-r=A.n7(A.a([new A.bL(B.bb,A.ff(A.h(s==null?q:s.z)+" autenticado, vote abaixo!",q,q,q,B.fx,q,q),q),new A.bL(B.bb,A.ff("Voc\xea aprova o Acordo Coletivo de Trabalho Espec\xedfico de Escala (ACTEE) apresentado em AGE? Ao aprovar a proposta, voc\xea autoriza a Diretoria do SNTPV a assinar este acordo com a NAV Brasil nos termos apresentados. Em caso de rejei\xe7\xe3o ser\xe1 aplicada a escala 4x1 6h",q,q,q,q,q,q),q),new A.bL(B.bb,A.n7(r.gfo(r).hK(0,new A.acp(p),t.l7).dN(0),B.cs,B.bt),q),B.Ay,new A.bL(B.bb,A.aqo(B.MZ,p.gadN()),q)],t.p),B.ef,B.bt)
+r=A.n7(A.a([new A.bL(B.bb,A.ff(A.h(s==null?q:s.z)+" autenticado, vote abaixo!",q,q,q,B.fx,q,q),q),new A.bL(B.bb,A.ff("Voc\xea aprova o Acordo Coletivo de Trabalho Espec\xedfico de Escala (ACTEE) apresentado em AGE? Ao aprovar a proposta, voc\xea autoriza a Diretoria do SNTPV a assinar este acordo com a NAV Brasil nos termos apresentados. Em caso de rejei\xe7\xe3o pela localidade ser\xe1 aplicada a escala 4x1 6h",q,q,q,q,q,q),q),new A.bL(B.bb,A.n7(r.gfo(r).hK(0,new A.acp(p),t.l7).dN(0),B.cs,B.bt),q),B.Ay,new A.bL(B.bb,A.aqo(B.MZ,p.gadN()),q)],t.p),B.ef,B.bt)
 s=r}return A.aqE(s,p.x)},
 $S:437}
 A.acp.prototype={
