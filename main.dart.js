@@ -79449,7 +79449,7 @@ s=s.z
 s===$&&A.a()
 s=s.c
 r=p.r
-return A.apN(A.nl(A.b([new A.bW(B.bC,A.fU(A.h(s==null?q:s.z)+" autenticado, vote abaixo!",q,q,q,B.jk,q,q),q),new A.bW(B.bC,A.fU("Voc\xea aprova a GREVE e a declara\xe7\xe3o imediata de ESTADO DE GREVE? Uma vez aprovada a greve, esta assembleia se tornar\xe1 permanente e caber\xe1 ao sindicato uma nova convoca\xe7\xe3o para delibera\xe7\xe3o sobre a deflagra\xe7\xe3o.",q,q,q,q,q,q),q),new A.bW(B.bC,A.nl(r.geT(r).dm(0,new A.aaS(p),t.l7).dh(0),B.cB,B.bH),q),B.AO,new A.bW(B.bC,A.apx(B.O0,p.gah_()),q)],t.p),B.eB,B.bH),p.x)},
+return A.apN(A.nl(A.b([new A.bW(B.bC,A.fU(A.h(s==null?q:s.z)+" autenticado, vote abaixo!",q,q,q,B.jk,q,q),q),new A.bW(B.bC,A.fU("Voc\xea aprova a GREVE e a declara\xe7\xe3o imediata de ESTADO DE GREVE, tendo por efeito que uma vez aprovada a greve, esta assembleia se tornar\xe1 permanente e caber\xe1 ao sindicato uma nova convoca\xe7\xe3o para delibera\xe7\xe3o sobre a deflagra\xe7\xe3o?",q,q,q,q,q,q),q),new A.bW(B.bC,A.nl(r.geT(r).dm(0,new A.aaS(p),t.l7).dh(0),B.cB,B.bH),q),B.AO,new A.bW(B.bC,A.apx(B.O0,p.gah_()),q)],t.p),B.eB,B.bH),p.x)},
 $S:459}
 A.aaS.prototype={
 $1(a){var s=null,r=this.a
