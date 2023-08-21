@@ -79299,9 +79299,9 @@ return A.K(null,r)}})
 return A.L($async$$0,r)},
 $S:15}
 A.A0.prototype={
-ah(){var s,r,q,p=A.am0(2023,7,21,22,0,0,0,!0)
+ah(){var s,r,q,p=A.am0(2023,8,21,22,0,0,0,!0)
 if(!A.h1(p))A.I(A.jH(p))
-s=A.am0(2023,7,23,1,0,0,0,!0)
+s=A.am0(2023,8,22,22,0,0,0,!0)
 if(!A.h1(s))A.I(A.jH(s))
 r=A.aj([1,"SIM",2,"N\xc3O",3,"ABSTEN\xc7\xc3O"],t.S,t.N)
 q=$.de().b
@@ -79366,7 +79366,7 @@ break}p=4
 a=$.de()
 a0=a.b
 a0===$&&A.a()
-a0=a0.EY("voto-21-07-2023")
+a0=a0.EY("voto-21-08-2023")
 a6=A
 a7=a4.z
 s=7
@@ -79399,7 +79399,7 @@ a=$.de()
 a0=a.b
 a0===$&&A.a()
 a1=t.z
-a0=a0.EY("voto-21-07-2023").Hm(0,"*",a1)
+a0=a0.EY("voto-21-08-2023").Hm(0,"*",a1)
 a4=a4.z
 s=10
 return A.A(a0.Q0("email",a4),$async$lp)
@@ -79449,7 +79449,7 @@ s=s.z
 s===$&&A.a()
 s=s.c
 r=p.r
-return A.apN(A.nl(A.b([new A.bW(B.bC,A.fU(A.h(s==null?q:s.z)+" autenticado, vote abaixo!",q,q,q,B.jk,q,q),q),new A.bW(B.bC,A.fU("Voc\xea aprova a GREVE e a declara\xe7\xe3o imediata de ESTADO DE GREVE, tendo por efeito que uma vez aprovada a greve, esta assembleia se tornar\xe1 permanente e caber\xe1 ao sindicato uma nova convoca\xe7\xe3o para delibera\xe7\xe3o sobre a deflagra\xe7\xe3o?",q,q,q,q,q,q),q),new A.bW(B.bC,A.nl(r.geT(r).dm(0,new A.aaS(p),t.l7).dh(0),B.cB,B.bH),q),B.AO,new A.bW(B.bC,A.apx(B.O0,p.gah_()),q)],t.p),B.eB,B.bH),p.x)},
+return A.apN(A.nl(A.b([new A.bW(B.bC,A.fU(A.h(s==null?q:s.z)+" autenticado, vote abaixo!",q,q,q,B.jk,q,q),q),new A.bW(B.bC,A.fU("Voc\xea aprova a contraproposta para o Acordo Coletivo de Trabalho apresentada pela NAV Brasil com vig\xeancia de 01 de maio de 2023 a 30 de abril de 2025?",q,q,q,q,q,q),q),new A.bW(B.bC,A.nl(r.geT(r).dm(0,new A.aaS(p),t.l7).dh(0),B.cB,B.bH),q),B.AO,new A.bW(B.bC,A.apx(B.O0,p.gah_()),q)],t.p),B.eB,B.bH),p.x)},
 $S:459}
 A.aaS.prototype={
 $1(a){var s=null,r=this.a
@@ -83742,7 +83742,7 @@ B.Ho=new A.xE(null)
 B.jk=new A.q(!0,null,null,null,null,null,40,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.O2=new A.hq("Registre-se para votar!",null,B.jk,null,null,null,null,null,null)
 B.Hp=new A.bW(B.bC,B.O2,null)
-B.NZ=new A.hq("Fora do per\xedodo de vota\xe7\xe3o. A vota\xe7\xe3o vai iniciar durante a assembleia do dia 21/07 e se encerra \xe0s 22hs do dia 22/07!",null,B.jk,null,null,null,null,null,null)
+B.NZ=new A.hq("Fora do per\xedodo de vota\xe7\xe3o. A vota\xe7\xe3o vai iniciar durante a assembleia do dia 21/08 e se encerra \xe0s 19hs do dia 22/08!",null,B.jk,null,null,null,null,null,null)
 B.BL=new A.qy(B.NZ,B.k9,null)
 B.Hq=new A.bW(B.bC,B.BL,null)
 B.O_=new A.hq("Para participar desta vota\xe7\xe3o, digite seu e-mail @navbrasil.gov.br. Voc\xea receber\xe1 um e-mail com um link para confirmar seu v\xednculo com a NAV Brasil e votar.",null,null,null,null,null,null,null,null)
