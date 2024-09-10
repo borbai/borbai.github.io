@@ -7,7 +7,7 @@ const RESOURCES = {"assets/AssetManifest.json": "99914b932bd37a50b983c5e7c90ae93
 "assets/AssetManifest.smcbin": "0b0a3415aad49b6e9bf965ff578614f9",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/fonts/MaterialIcons-Regular.otf": "59ff4af88b36aade9a7d22e85a1f3c0d",
-"assets/NOTICES": "7ad3b0eb97e744fe1d3a0999b1a74eb3",
+"assets/NOTICES": "0e1b99c0cf54fca4d0af96c6a5f5390b",
 "assets/shaders/ink_sparkle.frag": "f8b80e740d33eb157090be4e995febdf",
 "canvaskit/canvaskit.js": "76f7d822f42397160c5dfc69cbc9b2de",
 "canvaskit/canvaskit.wasm": "f48eaf57cada79163ec6dec7929486ea",
@@ -24,9 +24,9 @@ const RESOURCES = {"assets/AssetManifest.json": "99914b932bd37a50b983c5e7c90ae93
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "c051b0a7c1e722367a3c1a7143a1b055",
-"/": "c051b0a7c1e722367a3c1a7143a1b055",
-"main.dart.js": "a52e509f7250e5279da0f4570d5900d3",
+"index.html": "795d5e411f514cea380daddbb8b92674",
+"/": "795d5e411f514cea380daddbb8b92674",
+"main.dart.js": "cbde98b785f486fbe29149ed063abcf1",
 "manifest.json": "ad21dc64c63cd61b2ac3a94b97289074",
 "version.json": "04c96d538d7f2abefff9c192a010e0ae"};
 // The application shell files that are downloaded before a service worker can
