@@ -23883,7 +23883,7 @@ var $async$aku=A.M(function(a,b){if(a===1)return A.I(b,r)
 while(true)switch(s){case 0:if($.ai==null)A.abF()
 $.ai.toString
 s=2
-return A.A(A.a96("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImtwdW11aXpxZHZzYXVzZGVqamhsIiwicm9sZSI6ImFub24iLCJpYXQiOjE2OTMwODI1MzMsImV4cCI6MjAwODY1ODUzM30.X35c2J0vR0VqAegev8pBEuukbUwfdS8jQrWBSeFuVTo","https://kpumuizqdvsausdejjhl.supabase.co"),$async$aku)
+return A.A(A.a96("eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InVicnhscWp3dnRwa21obm9iYWxkIiwicm9sZSI6ImFub24iLCJpYXQiOjE2Nzg5OTEyOTQsImV4cCI6MTk5NDU2NzI5NH0.ALqcqImLJRHdo3C9wgJ2RXt3mum7D4nBCiTPl6w3Wag","https://ubrxlqjwvtpkmhnobald.supabase.co"),$async$aku)
 case 2:if($.ai==null)A.abF()
 q=$.ai
 q.toString
