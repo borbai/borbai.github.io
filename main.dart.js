@@ -75228,7 +75228,7 @@ case 3:n=k.arF(f)
 m=n.a
 if(m==null)throw A.c(A.iJ("An error occurred on token verification.",null,null))
 p.os(m)
-p.ja(d===B.HY?B.cG:B.cI)
+p.ja(d===B.HX?B.cG:B.cI)
 q=n
 s=1
 break
@@ -79289,7 +79289,7 @@ o=q.w
 n=$.dt().b
 n===$&&A.a()
 s=2
-return A.x(n.gcG().zI(p,"https://votacao.sntpv.org.br",o,B.HX),$async$zJ)
+return A.x(n.gcG().zI(p,"https://votacao.sntpv.org.br",o,B.HY),$async$zJ)
 case 2:return A.C(null,r)}})
 return A.D($async$zJ,r)},
 O(a){var s,r=this,q=null,p=r.w
@@ -84167,8 +84167,8 @@ B.HU=new A.og(1,null)
 B.HV=new A.IW(0,"portrait")
 B.HW=new A.IW(1,"landscape")
 B.Tx=new A.a68(0,"sms")
-B.HX=new A.IX(2,"signup")
-B.HY=new A.IX(5,"recovery")
+B.HX=new A.IX(5,"recovery")
+B.HY=new A.IX(7,"email")
 B.I_=new A.yb(null)
 B.dj=new A.n(!0,null,null,null,null,null,40,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.Qi=new A.fS("Clique abaixo para votar!",null,B.dj,null,null,null,null,null,null)
